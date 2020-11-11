@@ -1,2 +1,2 @@
-# Class25
-Inheritance, BaseClass, parent class, child class, super term, extends baseClass
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
